@@ -1,6 +1,6 @@
 ---
 title: "Chickitty China"
-status: draft
+status: published
 date: 2026-06-08
 ---
 
